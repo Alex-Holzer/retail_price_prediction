@@ -1,0 +1,8 @@
+{
+    "notebook.cellFocusIndicator": "gutter",
+    "notebook.cellToolbarVisibility": "hover",
+    "notebook.compactView": true,
+    "notebook.diff.overviewRuler": true,
+    "notebook.editorOptionsCustomizations": {},
+    "workbench.preferredDarkColorTheme": "Community Material Theme"
+}
